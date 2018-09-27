@@ -83,4 +83,9 @@ h2{
 ul li{
     display:inline;
 }
-
+.content{
+    width:960px;
+}
+a:hover { 
+     color: black; 
+}
